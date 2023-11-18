@@ -10,7 +10,7 @@ int main()
 	switch(o)
 	{
 		case 1:
-			f=(a+b);
+			f=(a-b);
 			printf("The sum of the two number is %f",f);
 			break; 
    
